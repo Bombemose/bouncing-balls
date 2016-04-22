@@ -75,7 +75,7 @@ public class BallDemo
         index = 1;
         
         while(index <= numberOfBalls) {
-            yPosition = randomGenerator.getRandomNumber(400);
+            yPosition = randomGenerator.getRandomNumber(250);
             xPosition = randomGenerator.getRandomNumber(150);
             diameter = randomGenerator.getRandomNumber(15)+15;
             color = randomGenerator.getRandomColor();
