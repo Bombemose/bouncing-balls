@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RandomGenerator()
+comment0.text=\n\ Konstrukt\u00F8r\ for\ objekter\ af\ klassen\ RandomGenerator\n
+comment1.params=limit
+comment1.target=int\ getRandomNumber(int)
+comment1.text=\n\ Et\ eksempel\ p\u00E5\ en\ metode\ -\ erstat\ denne\ kommentar\ med\ din\ egen\n\ \n\ @param\ \ y\ \ eksempel\ p\u00E5\ en\ parameter\ til\ en\ metode\n\ @return\ \ \ \ summen\ af\ x\ og\ y\ \n
+comment2.params=
+comment2.target=void\ createColorMap()
+comment3.params=
+comment3.target=java.awt.Color\ getRandomColor()
+numComments=4
